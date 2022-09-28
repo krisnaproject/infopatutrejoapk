@@ -29,8 +29,10 @@ You can change it later, but don't forget to add new android permission.
 This App use 1 Android Permission :
 = USE INTERNET FEATURES
 
-# GOOGLE PLAY STATUS
-This app currently not available on Google Play, since we're unable to upload that app to Google Play for several reason. But we can declare this app is safe.
+# GOOGLE PLAY STORE STATUS
+This app currently not available on Google Play Store.
+
+Currently, we're unable to upload that app to Google Play for several reason. But we can declare this app is safe.
 
 # TESTING
 This app already tested and found no security issue on this device : 
