@@ -12,7 +12,7 @@ This app contains several features, such as:
 - Website-side update. No need update on application-side
 - Nearly maintenance-free. Devs can focus to add new features while also fixing any bugs which available during daily use.
 
-Info Patutrejo APK (WebView) is a part from Community Social Service (Kuliah Kerja Nyata) Multimeda Training Center (Sekolah Tinggi Multi Media) Yogyakarta.
+Info Patutrejo APK (WebView) is a part from Community Social Service (Kuliah Kerja Nyata) Multimedia Training Center (Sekolah Tinggi Multi Media) Yogyakarta.
 
 Special thanks to: 
 - Users who share a code to fix any general problem on Android WebView Implementation on every forum (StackOverflow, etc)
